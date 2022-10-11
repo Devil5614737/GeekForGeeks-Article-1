@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  overflow-x: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a,input,button{
+  font: inherit;
+}
+
+label{
+  display: inline-block;
+}
+input{
+  display: block;
+}
